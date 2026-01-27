@@ -1,3 +1,5 @@
 # interactive-sound
 
-My max patches for ATLS4221, Interactive Sound.
+This repository is a collection of my Cycling '74 Max/MSP patches, along with reference examples sourced from external repositories and online materials.
+
+Using Max 9.X.X onwards.

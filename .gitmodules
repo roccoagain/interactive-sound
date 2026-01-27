@@ -4,3 +4,6 @@
 [submodule "examples/maxmsp_patches"]
 	path = examples/maxmsp_patches
 	url = https://github.com/estine/maxmsp_patches.git
+[submodule "examples/Sound-Synthesis-Max"]
+	path = examples/Sound-Synthesis-Max
+	url = https://github.com/stavrosdidakis/Sound-Synthesis-Max.git
