@@ -2,10 +2,10 @@
 
 ## Project Structure & Module Organization
 
-- Root contains user's own patches.
+- `patches/` user's custom patches.
 - `examples/` holds reference material and submodules:
   - Submodules: `examples/ircam-ciee`, `examples/maxmsp_patches`, `examples/Sound-Synthesis-Max`.
-- Keep new patches in the repo root; keep third-party or reference material under `examples/`.
+- Keep third-party or reference material under `examples/`.
 
 ## Build, Test, and Development Commands
 
@@ -18,7 +18,7 @@
 
 - Max patch files are JSON.
 - Naming: lowercase, short, descriptive names with hyphens.
-- Place new patches at the repo root unless they are references or vendor content.
+- Place new patches in `patches/`.
 
 ## Commit Guidelines
 
