@@ -1,0 +1,6 @@
+[submodule "examples/ircam-ciee"]
+	path = examples/ircam-ciee
+	url = https://github.com/maxardito/ircam-ciee.git
+[submodule "examples/maxmsp_patches"]
+	path = examples/maxmsp_patches
+	url = https://github.com/estine/maxmsp_patches.git
