@@ -2,7 +2,7 @@
 
 ## Project Structure & Module Organization
 
-- `patches/` user's custom patches.
+- `my-patches/` user's custom patches.
 - `examples/` holds reference material and submodules:
   - Submodules: `examples/ircam-ciee`, `examples/maxmsp_patches`, `examples/Sound-Synthesis-Max`.
 - Keep third-party or reference material under `examples/`.
@@ -18,7 +18,7 @@
 
 - Max patch files are JSON.
 - Naming: lowercase, short, descriptive names with hyphens.
-- Place new patches in `patches/`.
+- Place new patches in `my-patches/`.
 
 ## Commit Guidelines
 
